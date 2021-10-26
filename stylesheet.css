@@ -1,0 +1,39 @@
+*{
+	font-family: Verdana,
+	color: #66554;
+	text-align: center;
+}
+
+nav{
+	background-color: #efefef;
+	padding: 10px;
+	margin:10 px;
+}
+
+li{
+	display: inline;
+	padding: 5px;
+}
+
+section{
+	overflow: auto;
+	height:  100%;
+}
+
+main{
+	background-color:  #efefef;
+	padding:  10px;
+	margin:  10x;
+}
+
+article{
+	background-color:  #efefef;
+	padding:  10px;
+	margin:  10px;
+	width:  280 px;
+	float: left;
+}
+
+dl{
+	padding: 5px;
+}
